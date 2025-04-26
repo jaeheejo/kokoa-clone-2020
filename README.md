@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update(제목을 적어줍니다)
+# Kokoa Clone 2020 Update
 
-css got so much better(첫번째 문장)
+html and css got so much better
